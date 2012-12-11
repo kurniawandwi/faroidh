@@ -13,3 +13,9 @@ FOS diharapkan dapat membantu anda dalam menghitung dan mempelajari hukum-hukum 
 aplikasi ini didukung oleh beberapa pondok pesantren 
 
 sehingga InsyaAllah perhitungan yang didapat dapat dipertanggung jawabkan.
+
+# Versi
+APlikasi ini terbagi menjadi 3 bagian
+- APlikasi Online (Websites) 
+- Aplikasi Offline (Adobe Air)
+- Aplikasi Mobile
